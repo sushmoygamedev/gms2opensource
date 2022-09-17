@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.16",
+  "option_operagx_next_version": "0.0.0.17",
+  "option_operagx_game_name": "Space Moonstar",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "d21ad028-7ca5-4054-a8b4-de8a35f3dfee",
+  "option_operagx_team_name": "SushmoyGameDev",
+  "option_operagx_team_id": "5a9be563-e611-4f03-a00f-17248f2cd648",
+  "option_operagx_editUrl": "https://create.gx.games/game/d21ad028-7ca5-4054-a8b4-de8a35f3dfee/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/mjzxfg/space-moonstar/tracks/30e4f785-a42f-405c-801d-2b49cdb9c18e/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/mjzxfg/space-moonstar/",
+}
